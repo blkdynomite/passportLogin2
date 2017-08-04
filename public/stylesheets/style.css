@@ -1,0 +1,97 @@
+body {
+	font-family: 'Georgia', sans-serif;
+	background-color: #f3f3f3;
+	width: 1500px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	background-color: #fff;
+	padding-bottom: 32px;
+}
+
+#wrapper2 {
+	color: white;
+}
+
+header {
+	background-color: green;
+	height: 75px;
+	padding: 4px;
+}
+
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: #fff;
+	line-height: 50px;
+}
+
+/*h2 {
+	font-variant: small-caps;
+	text-align: center;
+	color: #fff;
+}*/
+
+h3 {
+	font-family: 'Times New Roman', sans-serif;
+	background-color: white;
+	text-align: center;
+	width: 300px;
+	height: 455px;
+	float: right;
+	margin: 2px;
+}
+
+h4 {
+	font-size: 30px;
+	color: teal;
+}
+
+.main_menu {
+	padding: 5px 0 5px 0;
+	text-align: center;
+	line-height: 32px;
+	background-color: #818181;
+}
+
+ul.main_menu {
+	margin-top: 15px;
+}
+
+.main_menu li {
+	display: inline;
+	padding: 0 10px 0 10px;
+	font-size: 16px;
+}
+
+.main_menu a {
+	text-decoration: none;
+	color: #fff;
+	padding: 8px;
+	font-variant: small-caps;
+}
+
+.main_menu a:hover {
+	color: purple;
+}
+
+footer {
+	font-size: 4px;
+	border-bottom: 25px;
+	background-color: grey;
+	font-variant: small-caps;
+	text-align: center;
+	width: 1195px;
+}
+
+.work {
+	text-align: center;
+}
+
+/*
+
+form.signup,
+form.login {
+  margin-top: 50px;
+}*/
